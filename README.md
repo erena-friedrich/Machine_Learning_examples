@@ -1,2 +1,2 @@
 # Machine_Learning_examples
-A place for Machine Learning practice.
+Welcome!!  This is a place where I can show my Machine Learning progress.
